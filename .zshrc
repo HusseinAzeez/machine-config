@@ -75,7 +75,6 @@ git
 dotenv
 zsh-autosuggestions
 rbenv
-zsh-nvm
 )
 
 source $ZSH/oh-my-zsh.sh
